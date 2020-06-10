@@ -1,1 +1,3 @@
-# metaideas-homepage
+# Metaideas Homepage
+
+Coming soon.
